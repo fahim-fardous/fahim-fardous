@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Jetpack compose, Flutter**
 
-- 🌱 I’m currently learning **Native android, Jetpack compose**
+- 🌱 I’m currently learning **Native android, Jetpack compose, Flutter**
 
 - 📫 How to reach me **fahim.fardous@brainstation-23.com**
 
