@@ -1,9 +1,9 @@
 </h1>
 <h1 align="center">Hi 👋, I'm Fahim Mohammod Fardous</h1>
-<h3 align="center">A passionate android developer from Bangladesh</h3>
+<h3 align="center">A passionate mobile developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1413922045/vector/programming-at-home.jpg?s=612x612&w=0&k=20&c=_5UhZu0-etj-lWZorNUAkF_PEqXfHpuf44dCeWeCOvc="/>
 
-- 🔭 I’m currently working in **Android/Kotlin with XML/Jetpack Compose**
+- 🔭 I’m currently working in **Jetpack compose, Flutter**
 
 - 🌱 I’m currently learning **Native android, Jetpack compose**
 
